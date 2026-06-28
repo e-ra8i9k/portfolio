@@ -53,6 +53,12 @@ const friends: Friend[] = [
     description: 'He is just a good friend that has a lot to offer. He even plans on selling his Discord server to me. He is just a chill guy and overall nice and understanding.',
     icon: Wind,
   },
+  {
+    number: 8,
+    names: 'Mati',
+    description: 'Mati is mati 🙂',
+    icon: Smile,
+  }
 ]
 
 export default function Friends() {
