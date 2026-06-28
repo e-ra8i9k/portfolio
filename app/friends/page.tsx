@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Crown, Shield, Dumbbell, Sparkles, Gamepad2, Flame, Wind, type LucideIcon } from 'lucide-react'
+import { Crown, Shield, Dumbbell, Sparkles, Gamepad2, Flame, Wind, Smile, type LucideIcon } from 'lucide-react'
 
 type Friend = {
   number: number
